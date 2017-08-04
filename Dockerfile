@@ -2,7 +2,7 @@ FROM centos:7
 MAINTAINER Krzysztof Suszyński <krzysztof.suszynski@coi.gov.pl>
 
 ENV REVAMP_USER revamp
-ENV REVAMP_VERSION 1.1.0
+ENV REVAMP_VERSION 1.1.1
 ENV REVAMP_USER_ID 764
 ENV REVAMP_HOMEDIR /home/$REVAMP_USER
 
